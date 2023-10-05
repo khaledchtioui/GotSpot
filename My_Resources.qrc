@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gotspot.ico</file>
+        <file>configuration.ico</file>
+    </qresource>
+</RCC>

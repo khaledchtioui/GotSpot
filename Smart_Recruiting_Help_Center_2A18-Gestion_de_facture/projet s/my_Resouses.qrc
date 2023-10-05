@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GOTSPOT.ico</file>
+    </qresource>
+</RCC>
